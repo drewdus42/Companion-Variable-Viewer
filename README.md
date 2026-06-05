@@ -24,7 +24,7 @@ Built for electron and Web.
 
 Run in Browser from Github Pages Deployments:
 
-https://trekfan42.github.io/Companion-Variable-Viewer/
+https://drewdus42.github.io/Companion-Variable-Viewer/
 
 
 ____________________
